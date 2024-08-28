@@ -1,0 +1,42 @@
+.headerPoster{
+    position: relative;
+    top: 140px;
+}
+
+.MainPoster{
+    width: 100%;
+    height: 17rem;
+    /* background-color: red; */
+}
+.MainPoster img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.MvName{
+    padding-top: 15px;
+    color: white;
+    font-family: "Koulen", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+}
+.iconShow{
+    color: #ccc;
+    font-weight: 100;
+}
+.blockDMY{
+    position: relative;
+    bottom: 5px;
+    line-height: 2rem;
+    padding-left: 10px;
+    color: white;
+}
+iframe{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 15px;
+}
